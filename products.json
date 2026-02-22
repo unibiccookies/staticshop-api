@@ -1,0 +1,44 @@
+﻿{
+  "metadata": {
+    "email": "22f3002211@ds.study.iitm.ac.in",
+    "version": "c29ab8f7"
+  },
+  "products": [
+    { "id": 1, "name": "T-Shirt Alpha", "category": "clothing", "price": 32000.53, "stock": 1, "rating": 4.5 },
+    { "id": 2, "name": "T-Shirt Beta", "category": "clothing", "price": 33212.53, "stock": 1, "rating": 4.2 },
+
+    { "id": 3, "name": "Laptop X", "category": "electronics", "price": 59999.99, "stock": 5, "rating": 4.8 },
+    { "id": 4, "name": "Headphones Pro", "category": "electronics", "price": 2999.99, "stock": 20, "rating": 4.4 },
+    { "id": 5, "name": "Smartwatch Z", "category": "electronics", "price": 9999.50, "stock": 10, "rating": 4.1 },
+
+    { "id": 6, "name": "Sofa Classic", "category": "home", "price": 45000.00, "stock": 3, "rating": 4.6 },
+    { "id": 7, "name": "Dining Table", "category": "home", "price": 25000.00, "stock": 2, "rating": 4.3 },
+    { "id": 8, "name": "Lamp Modern", "category": "home", "price": 1500.00, "stock": 15, "rating": 4.0 },
+
+    { "id": 9, "name": "Running Shoes", "category": "sports", "price": 4999.99, "stock": 8, "rating": 4.7 },
+    { "id": 10, "name": "Football", "category": "sports", "price": 999.99, "stock": 25, "rating": 4.2 },
+    { "id": 11, "name": "Yoga Mat", "category": "sports", "price": 799.99, "stock": 30, "rating": 4.1 },
+
+    { "id": 12, "name": "Novel A", "category": "books", "price": 399.99, "stock": 40, "rating": 4.5 },
+    { "id": 13, "name": "Novel B", "category": "books", "price": 499.99, "stock": 35, "rating": 4.4 },
+    { "id": 14, "name": "Cookbook", "category": "books", "price": 699.99, "stock": 20, "rating": 4.3 },
+
+    { "id": 15, "name": "Toy Car", "category": "toys", "price": 599.99, "stock": 50, "rating": 4.0 },
+    { "id": 16, "name": "Doll Set", "category": "toys", "price": 899.99, "stock": 30, "rating": 4.1 },
+
+    { "id": 17, "name": "Watch Elite", "category": "accessories", "price": 15000.00, "stock": 5, "rating": 4.6 },
+    { "id": 18, "name": "Backpack Urban", "category": "accessories", "price": 2499.99, "stock": 15, "rating": 4.3 },
+
+    { "id": 19, "name": "Gaming Mouse", "category": "electronics", "price": 1999.99, "stock": 18, "rating": 4.5 },
+    { "id": 20, "name": "Office Chair", "category": "home", "price": 8999.99, "stock": 6, "rating": 4.4 },
+
+    { "id": 21, "name": "Water Bottle", "category": "sports", "price": 499.99, "stock": 60, "rating": 4.2 },
+    { "id": 22, "name": "Bluetooth Speaker", "category": "electronics", "price": 3499.99, "stock": 12, "rating": 4.3 }
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 2,
+      "inventoryValue": 65213.06
+    }
+  }
+}
